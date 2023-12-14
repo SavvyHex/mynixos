@@ -100,7 +100,10 @@
   environment.systemPackages = with pkgs; [
 	# System Stuff
 	libsForQt5.bismuth
+
+  # Apps
 	spotify
+  gimp
 
 	# Code Editors
 	vim
