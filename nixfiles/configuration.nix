@@ -104,6 +104,7 @@
   # Apps
 	spotify
   gimp
+  cockatrice
 
 	# Code Editors
 	vim
