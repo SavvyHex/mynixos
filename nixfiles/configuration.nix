@@ -104,7 +104,6 @@
   # Apps
 	spotify
   gimp
-  lutris
 
 	# Code Editors
 	vim
@@ -114,6 +113,7 @@
   wget
 	neofetch
 	tree
+  killall
 
 	# Programming Languages
 	python3
