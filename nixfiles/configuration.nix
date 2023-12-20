@@ -114,6 +114,7 @@
 	neofetch
 	tree
   killall
+  crawl
 
 	# Programming Languages
 	python3
