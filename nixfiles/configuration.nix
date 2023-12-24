@@ -104,7 +104,7 @@
   # Apps
 	spotify
   gimp
-  retroarch
+  retroarchFull
 
 	# Code Editors
 	vim
