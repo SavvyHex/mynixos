@@ -103,7 +103,7 @@
 
   # Apps
 	spotify
-  gimp
+  libresprite
   retroarchFull
   unityhub
 
