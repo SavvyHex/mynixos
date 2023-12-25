@@ -105,6 +105,7 @@
 	spotify
   gimp
   retroarchFull
+  unityhub
 
 	# Code Editors
 	vim
