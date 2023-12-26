@@ -106,6 +106,7 @@
   libresprite
   retroarchFull
   unityhub
+  blender
 
 	# Code Editors
 	vim
