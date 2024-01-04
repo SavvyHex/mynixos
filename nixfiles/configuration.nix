@@ -105,7 +105,6 @@
 	spotify
   libresprite
   retroarchFull
-  unityhub
 
 	# Code Editors
 	vim
@@ -128,7 +127,6 @@
 	# Programming Tools
 	git
 	docker
-  sn0int
   ];
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.
