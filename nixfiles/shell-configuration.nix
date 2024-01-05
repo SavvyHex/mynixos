@@ -6,5 +6,6 @@
   alias neofetch="neofetch --config ~/Projects/mynixos/neofetch/config.conf"
   alias venvinit="python -m venv env"
   alias usevenv="source ./env/bin/activate"
+  alias gi-gen="python ~/Tools/gi-gen/gi-gen.py"
   '';
 }
