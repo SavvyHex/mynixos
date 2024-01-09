@@ -112,7 +112,6 @@
 	
 	# CLI
   wget
-	neofetch
 	tree
   killall
   crawl

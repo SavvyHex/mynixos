@@ -103,8 +103,6 @@
 
   # Apps
 	spotify
-  libresprite
-  retroarchFull
 
 	# Code Editors
 	vim
@@ -112,10 +110,8 @@
 	
 	# CLI
   wget
-	neofetch
 	tree
   killall
-  crawl
   direnv
 
 	# Programming Languages
