@@ -116,6 +116,7 @@
 	tree
   killall
   crawl
+  direnv
 
 	# Programming Languages
 	python3
