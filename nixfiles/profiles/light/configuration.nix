@@ -7,8 +7,8 @@
 {
   imports =
     [ # Include the results of the hardware scan.
-      ./hardware-configuration.nix
-      ./shell-configuration.nix
+      ../../hardware-configuration.nix
+      ../../shell-configuration.nix
     ];
 
   # Bootloader.

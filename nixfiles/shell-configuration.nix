@@ -1,7 +1,8 @@
 {
   # Bash Aliases
   environment.interactiveShellInit = ''
-	alias nixbuild="sudo nixos-rebuild switch -I nixos-config=/home/savvyhex/Projects/mynixos/nixfiles/configuration.nix"
+	alias nixbuildhome="sudo nixos-rebuild switch -I nixos-config=/home/savvyhex/Projects/mynixos/nixfiles/profiles/main/configuration.nix"
+  alias nixbuildlight="sudo nixos-rebuild switch -I nixos-config=/home/savvyhex/Projects/mynixos/nixfiles/profiles/light/configuration.nix"
 	alias nixedit="code ~/Projects/mynixos/ && exit"
   alias neofetch="neofetch --config ~/Projects/mynixos/neofetch/config.conf"
   alias venvinit="python -m venv env"
